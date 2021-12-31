@@ -25,6 +25,10 @@ img{
     gap: 2rem;
 }
 
+section{
+    padding: 2rem 2%;
+}
+
 /* Header Section CSS Starts */
 body .container-fluid{
     max-width: 1440px;
